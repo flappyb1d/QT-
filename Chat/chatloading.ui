@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ChatLoading</class>
+ <widget class="QDialog" name="ChatLoading">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>554</width>
+    <height>442</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ChatLoading</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QDialog
+{background-image:url(:/pix/background/loading_background.png);}</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
